@@ -1,0 +1,36 @@
+{
+  "name": "Smart Hyco",
+  "short_name": "SmartHyco",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#6DCC34",
+  "theme_color": "#F7F7F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/icons/logo_4.png",
+      "type": "image/png",
+      "sizes": "71x56"
+    },
+    {
+      "src": "/img/icons/logo_3.png",
+      "type": "image/png",
+      "sizes": "181x142"
+    },
+    {
+      "src": "/img/icons/logo_2.png",
+      "type": "image/png",
+      "sizes": "275x216"
+    },
+    {
+      "src": "/img/icons/logo_1.png",
+      "type": "image/png",
+      "sizes": "384x302"
+    },
+    {
+      "src": "/img/icons/logo.png",
+      "type": "image/png",
+      "sizes": "445x350"
+    }
+  ]
+}
